@@ -15,7 +15,7 @@ More repos are being added incrementally — NLP for Fed policy analysis (STM, F
 ## 🎓 Credentials
 
 - **PhD Geophysics** · **Kellogg Global EMBA** · **MS Global Finance (NYU Stern / HKUST)**
-- **Harvard** — ALM Data Science (in progress); coursework in NLP, robotics/drones, quantitative finance
+- **Harvard** — ALM Data Science and Artificial Intelligence (in progress); coursework in NLP, robotics/drones, quantitative finance
 - **MIT Professional Education** — Applied Data Science; ML Foundations & Advanced certificates
 - **CMU Heinz College** — Chief Data & AI Officer (CDAIO) Program, Cohort 4 (2026–27)
 
