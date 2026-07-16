@@ -21,10 +21,10 @@ More repos are being added incrementally — NLP for Fed policy analysis (STM, F
 
 ## 🛠️ Toolkit
 
-**GenAI:** Claude API, GPT-4, RAG architectures, prompt engineering, LLM evaluation & grounding
-**ML/DL:** scikit-learn, TensorFlow, PyTorch, Keras · time series · Bayesian & stochastic methods
-**Platforms:** Azure AI Foundry, AzureML, Databricks, ChromaDB · GPU/parallel computing
-**Languages:** Python, R, MATLAB
+- **GenAI:** Claude API, GPT-4, RAG architectures, prompt engineering, LLM evaluation & grounding
+- **ML/DL:** scikit-learn, TensorFlow, PyTorch, Keras · time series · Bayesian & stochastic methods
+- **Platforms:** Azure AI Foundry, AzureML, Databricks, ChromaDB · GPU/parallel computing
+- **Languages:** Python, R, MATLAB
 
 ## 🤝 How I work
 
